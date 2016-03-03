@@ -1,0 +1,9 @@
+lataa paska arduino_sketchist (ehkä)
+
+10 - 6
+GND - 5
+VCC - 4
+13 - 3
+12 - 2
+11 - 1
+
