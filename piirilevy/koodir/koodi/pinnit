@@ -1,0 +1,12 @@
+Salaman ohjelmointiliittimen pinnit keskeltä reunalle:
+
+Nro:  Nimi:   Arduinon pinni (nano):
+
+6:    Reset   10
+5:    GND     GND
+4:    VCC     VCC
+3:    SCK     13
+2:    MISO    12
+1:    MOSI    11
+
+Muista vetää arduinon Reset ylös. Ardu nollautuu kun sarjaliikenne alotetaan....
